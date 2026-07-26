@@ -6,27 +6,27 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "技术学习博客",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "记录学习历程，分享技术心得",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://alanishere-hacker.github.io/alan-blog-new",
 
 	// 站点描述
 	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"一个记录大学期间各门课程实验报告、实训项目、安全研究及编程学习的技术博客，涵盖Linux、操作系统、计算机网络、Web安全、渗透测试等方向。",
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
 		"技术博客",
-		"静态博客",
+		"学习笔记",
+		"网络安全",
+		"渗透测试",
+		"编程学习",
+		"实验报告",
+		"Web安全",
 	],
 
 	// 主题色
@@ -77,7 +77,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "技术学习博客",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
